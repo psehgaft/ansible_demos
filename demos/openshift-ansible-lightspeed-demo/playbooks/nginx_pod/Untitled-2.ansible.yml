@@ -1,0 +1,6 @@
+---
+- name: Deploy NGINX
+  hosts: all
+  tasks:
+    - name: Run NGINX
+      ansible.builtin.shell: docker run -d --name nginx -p 80:80 nginx

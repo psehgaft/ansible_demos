@@ -1,7 +1,7 @@
 # OpenShift / Ansible Lightspeed & AI Demo
 
 ## Overview
-This repository contains all the materials for a 2-hour hands-on demo showcasing the power of Ansible Lightspeed with Watson Code Assistant (WCA) on OpenShift.
+This repository contains all the materials for a hands-on demo showcasing the power of Ansible Lightspeed with Watson Code Assistant (WCA) on OpenShift.
 
 ## Structure
 

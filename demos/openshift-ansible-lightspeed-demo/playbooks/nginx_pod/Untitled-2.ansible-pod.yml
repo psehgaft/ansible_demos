@@ -1,0 +1,7 @@
+---
+- name: Deploy NGINX
+  hosts: all
+  tasks:
+    - name: Deploy NGINX
+      ansible.builtin.import_role:
+        name: nginx
